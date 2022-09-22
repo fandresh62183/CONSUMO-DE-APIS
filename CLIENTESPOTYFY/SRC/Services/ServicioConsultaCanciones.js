@@ -5,7 +5,7 @@ buscar.addEventListener("click",function(evento){
     let artista=document.getElementById("artista").value
     console.log(artista)
     URI=`https://api.spotify.com/v1/artists/${artista}/top-tracks?market=US`
-    const TOKEN="Bearer BQAV6nSVhqylcfkT1cc3knuijHDRZ_HhbLVWnApg43Sb2MRv7NLsHvnzo2TrAjelQHLh9y61_uhZXEcxSPoLMFAPpN37BQgIU6xul7u2lgDhr6F6s7nWNyL4dHu8v8OVaZcbV70BsOM9Gt_KpTN4wDC04xj9BEg8fAqy2pwokfid4ttDOdggqQ2MZyZbbh_-Unc"
+    const TOKEN="Bearer BQDX1eyQ6YXRT5eKxCM9PVffrzy0zHgvKkGgV5Y7LYxwnLe2mRvb5QqHBEzS2TGdpUZFif7LFvZl_OOOTcV77OwL4vBbX0vB-iKnWJmjNhMmVuJQzz-8lO51fnSse__sQblOj4LzzNfkGt78FNnBCJLr0l14p5wqOjrr3c33kIUH4YkmX3Fjv_WSGMmsoSqMY60"
     const PETICION={
         method:"GET",
         headers:{Authorization:TOKEN},
