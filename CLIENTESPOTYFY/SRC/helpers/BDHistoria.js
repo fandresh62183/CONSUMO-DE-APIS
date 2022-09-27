@@ -15,10 +15,17 @@ let artista=[
     {foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojos.appspot.com/o/artista%2Fjay%20z.jpg?alt=media&token=7c7794c7-95ae-42be-a759-730a56e92ea3",
     historia:'Jay Z Nació el 4 de diciembre de 1969, originario de Marcy Houses, un proyecto de vivienda en el Bedford-Stuyvesant barrio de Brooklyn en Nueva York. El futuro "Jay Z", entonces conocido como Shawn Carter, fue abandonado por su padre y en 1982, le disparó a su hermano en el hombro por el robo de sus joyas. Carter asistió a la Escuela Eli Whitney, en Brooklyn, junto con el también futuro rapero AZ, hasta que fue cerrada. Después de haber asistido a la George Westinghouse y Carrera Escuela de Educación Secundaria Técnica en el Downtown de Brooklyn, con los futuros raperos y compañeros The Notorious B.I.G. y Busta Rhymes, y la Trenton Central High School en Trenton, Nueva Jersey, no se graduó. En su música hace comúnmente referencias a haber estado involucrado en la venta de crack.'},
 
-    {foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojos.appspot.com/o/artista%2Fsnnop%20dogg.jpg?alt=media&token=3d2a6c71-aaa6-4a9c-9999-29a096ff5383",historia:''},
-    {foto: "",historia:''},
-    {foto: "",historia:''},
-    {foto: "",historia:''}
+    {foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojos.appspot.com/o/artista%2Fsnnop%20dogg.jpg?alt=media&token=3d2a6c71-aaa6-4a9c-9999-29a096ff5383",
+    historia:'Calvin Cordozar Broadus (Long Beach, 20 de octubre de 1971), conocido artísticamente como Snoop Dogg, y en raras ocasiones como Snoop Lion, es un rapero, empresario, productor y actor estadounidense.1​ Es uno de los artistas de hip-hop con más éxito en el Gangsta rap. Además, es uno de los más notables amigos del productor Dr. Dre.'},
+
+    {foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojos.appspot.com/o/artista%2Fwendy%20zulca.jpg?alt=media&token=cfa682dc-ba7a-4ea2-a26f-11c961701b85",
+    historia:'Wendy Sulca Quispe (Lima, Perú, 22 de abril de 1996) es una cantante, actriz, modelo, celebridad de internet y compositora peruana de pop latino, reguetón, huayno y folk.1​ Se hizo conocida inicialmente por su exposición mediática alcanzada por sus videos virales musicales publicados en el sitio YouTube2​ que la convirtieron en un fenómeno de Internet, para más tarde buscar su carrera musical.3​'},
+
+    {foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojos.appspot.com/o/artista%2Fyomo.png?alt=media&token=9e18addc-f291-4d85-a83c-d3094ab8eadf"
+    ,historia:'Yomo se crio en el barrio Tres coronas de Humacao, Puerto Rico. Es el menor de tres hermanos, los otros dos son Junito y Chiqui. Su madre, Yiya, ha sido su soporte aun cuando el padre de Yomo los abandonó cuando él apenas era un niño. Su admiración por su madre ha sido expresada por él mismo, en varias de sus canciones, en las que él mismo se llama "El nene de Yiya". Al preguntarle el origen de su nombre artístico dijo que "Yomo es el nombre de un samurái de una isla bien lejana y remota, que es bien disciplinado y un guerrero. Así soy yo, disciplinado pero guerrero a la vez". Antes de empezar a cantar, Abreu fue handyman en Palmas del Mar en Humacao.'},
+
+    {foto: "https://firebasestorage.googleapis.com/v0/b/fotosantojos.appspot.com/o/artista%2Fzpu.jpg?alt=media&token=0ab2bdec-416e-49db-a80d-a2fb9c0df2c7",
+    historia:'Juan Prieto Sánchez (Barcelona, Cataluña, España, 11 de marzo de 1981), más conocido como ZPU, es un MC, escritor y poeta de rap en español.2​ Es reconocido por ser uno de los raperos más profundos y relevantes de la escena del hip hop de habla hispana. Es hermano de Soma, uno de los productores musicales más laureados del rap español'}
     
 
 
